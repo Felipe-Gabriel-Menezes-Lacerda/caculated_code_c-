@@ -1,0 +1,14 @@
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\bin\Debug\net9.0\tabuada_do_2.exe
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\bin\Debug\net9.0\tabuada_do_2.deps.json
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\bin\Debug\net9.0\tabuada_do_2.runtimeconfig.json
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\bin\Debug\net9.0\tabuada_do_2.dll
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\bin\Debug\net9.0\tabuada_do_2.pdb
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\tabuada_do_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\tabuada_do_2.AssemblyInfoInputs.cache
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\tabuada_do_2.AssemblyInfo.cs
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\tabuada_do_2.csproj.CoreCompileInputs.cache
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\tabuada_do_2.dll
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\refint\tabuada_do_2.dll
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\tabuada_do_2.pdb
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\tabuada_do_2.genruntimeconfig.cache
+C:\Udemy_courses\Unity_desenvolvedor_de_jogos_2D_e_3D\tabuada_do_2\tabuada_do_2\tabuada_do_2\obj\Debug\net9.0\ref\tabuada_do_2.dll
