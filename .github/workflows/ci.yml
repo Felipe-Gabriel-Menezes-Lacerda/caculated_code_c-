@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Configurar .NET
-        uses: actions/setup-dotnet@v3
+        uses: ../workflows../.github/tabuada_do_2/actions/setup-dotnet@v3
         with:
           dotnet-version: '9.0' # Versão do .NET
 
