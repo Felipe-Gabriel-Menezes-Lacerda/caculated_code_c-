@@ -1,4 +1,4 @@
-name: Build .NET App
+name: Build backend .NET
 
 on:
   push:
@@ -10,14 +10,14 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: github
 
     steps:
       - name: Checkout do Código
-        uses: actions/checkout@v3
+        uses: actions/checkout
 
       - name: Configurar .NET
-        uses: ../workflows../.github/tabuada_do_2/actions/setup-dotnet@v3
+        uses: actions/setup-dotnet #Cria um ambiente .NET para usar as actions
         with:
           dotnet-version: '9.0' # Versão do .NET
 
