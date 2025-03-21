@@ -13,21 +13,21 @@ jobs:
 
   steps:
     - name: checkout do código
-      uses: actions/checkout@v3
+    uses: actions/checkout@v3
 
     - name: Configurar .NET
-      uses: actions/setup-dotnet@v3
-      with:
+    uses: actions/setup-dotnet@v3
+    with:
         dotnet-version: '9.0.x'
 
     - name: Restaurar dependências
-      run: dotnet restore
+    run: dotnet restore
       
     - name: Compilar o projeto
-      run: dotnet build --configuration Release --no-restore
+    run: dotnet build --configuration Release --no-restore
 
     - name: Executar testes
-      run: dotnet test --no-restore --verbosity normal
+    run: dotnet test --no-restore --verbosity normal
       
     
   
